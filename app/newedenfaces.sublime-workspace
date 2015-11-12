@@ -1,0 +1,1516 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"scotch",
+				"scotchGiftWrapTapeArrival"
+			],
+			[
+				"holdi",
+				"holidayCheerEndCap"
+			],
+			[
+				"ho",
+				"holidaySeasonalDisplay"
+			],
+			[
+				"manager",
+				"manager_name"
+			],
+			[
+				"data",
+				"dataSection"
+			],
+			[
+				"auth",
+				"authStr"
+			],
+			[
+				"enc",
+				"encoding"
+			],
+			[
+				"ns",
+				"nsdata"
+			],
+			[
+				"row",
+				"rowData"
+			],
+			[
+				"sea",
+				"searchQuery"
+			],
+			[
+				"push",
+				"pushEvent"
+			],
+			[
+				"Mo",
+				"moment"
+			],
+			[
+				"fet",
+				"fetchFeed"
+			],
+			[
+				"ren",
+				"renderRow"
+			],
+			[
+				"dat",
+				"dataSource"
+			],
+			[
+				"c",
+				"container"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"selec",
+				"selectedTab"
+			],
+			[
+				"u",
+				"userKey"
+			],
+			[
+				"au",
+				"authKey"
+			],
+			[
+				"re",
+				"results"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"st",
+				"state	React: this.state"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"cs",
+				"css-loader"
+			],
+			[
+				"e",
+				"existingAuthorIndex"
+			],
+			[
+				"ex",
+				"existingAuthor"
+			],
+			[
+				"Au",
+				"AuthorActions"
+			],
+			[
+				"A",
+				"AuthorActions"
+			],
+			[
+				"set",
+				"setAuthorState"
+			],
+			[
+				"la",
+				"lastName"
+			],
+			[
+				"Pro",
+				"propTypes"
+			],
+			[
+				"pro",
+				"propTypes"
+			],
+			[
+				"AU",
+				"AuthorList"
+			],
+			[
+				"conn",
+				"connection"
+			],
+			[
+				"g",
+				"groceryItem"
+			],
+			[
+				"G",
+				"GroceryItemSchema"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"_i",
+				"_item"
+			],
+			[
+				"tr",
+				"triggerListeners"
+			],
+			[
+				"d",
+				"delete"
+			],
+			[
+				"cl",
+				"className"
+			],
+			[
+				"get",
+				"getItems"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"lis",
+				"listener"
+			],
+			[
+				"Gro",
+				"GroceryItem"
+			],
+			[
+				"Gr",
+				"GroceryItem"
+			],
+			[
+				"rea",
+				"React"
+			],
+			[
+				"ac",
+				"auction"
+			],
+			[
+				"par",
+				"parseAuction"
+			],
+			[
+				"AUCTION",
+				"AUCTION_ITEM"
+			],
+			[
+				"page",
+				"pageSection"
+			],
+			[
+				"max",
+				"maxWA"
+			],
+			[
+				"Area",
+				"Area_R"
+			],
+			[
+				"AUC",
+				"AUCTION_ITEM"
+			],
+			[
+				"array_ke",
+				"array_key_exists"
+			],
+			[
+				"de",
+				"devToken"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"ba",
+				"backup_seed"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Applications/MAMP/htdocs/newedenfaces/server.js",
+			"settings":
+			{
+				"buffer_size": 1801,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "actions/FooterActions.js",
+			"settings":
+			{
+				"buffer_size": 1176,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "actions/NavBarActions.js",
+			"settings":
+			{
+				"buffer_size": 1305,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "components/AddCharacter.js",
+			"settings":
+			{
+				"buffer_size": 2817,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "stores/AddCharacterStore.js",
+			"settings":
+			{
+				"buffer_size": 1261,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "routes.js",
+			"settings":
+			{
+				"buffer_size": 362,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "actions/AddCharacterActions.js",
+			"settings":
+			{
+				"buffer_size": 665,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 369.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"warning",
+				"SublimeLinter: Make Warnings Passive"
+			],
+			[
+				"alignment",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Package Control: List Packages"
+			],
+			[
+				"linter",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"eanble",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"disab",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"linter: ch",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"linter settings",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"defa",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"align",
+				"Preferences: Alignment File Settings – User"
+			],
+			[
+				"sub",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"js",
+				"JSLint"
+			],
+			[
+				"sublimelinter settings",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 161.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/MAMP/htdocs/newedenfaces",
+		"/Applications/MAMP/htdocs/newedenfaces/app",
+		"/Applications/MAMP/htdocs/newedenfaces/app/actions",
+		"/Applications/MAMP/htdocs/newedenfaces/app/stores",
+		"/Applications/MAMP/htdocs/newedenfaces/app/stylesheets",
+		"/Applications/MAMP/htdocs/newedenfaces/bower_components/bootstrap",
+		"/Applications/MAMP/htdocs/newedenfaces/bower_components/toastr",
+		"/Applications/MAMP/htdocs/newedenfaces/public/css",
+		"/Applications/MAMP/htdocs/newedenfaces/public/fonts",
+		"/Applications/MAMP/htdocs/newedenfaces/public/img",
+		"/Applications/MAMP/htdocs/newedenfaces/public/js",
+		"/Applications/MAMP/htdocs/newedenfaces/views"
+	],
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/newedenfaces/app/components/Home.js",
+		"/Applications/MAMP/htdocs/newedenfaces/app/components/Navbar.js",
+		"/Applications/MAMP/htdocs/newedenfaces/app/stores/NavbarStore.js",
+		"/Applications/MAMP/htdocs/newedenfaces/views/index.html",
+		"/Applications/MAMP/htdocs/newedenfaces/.eslintrc",
+		"/Applications/MAMP/htdocs/newedenfaces/app/components/Footer.js",
+		"/Applications/MAMP/htdocs/newedenfaces/app/components/App.js",
+		"/Applications/MAMP/htdocs/newedenfaces/app/main.js",
+		"/Applications/MAMP/htdocs/newedenfaces/app/actions/NavBarActions.js",
+		"/Applications/MAMP/htdocs/reduxapp/src/server.js",
+		"/Applications/MAMP/htdocs/newedenfaces/server.js",
+		"/Applications/MAMP/htdocs/newedenfaces/gulpfile.js",
+		"/Applications/MAMP/htdocs/newedenfaces/app/stores/FooterStore.js",
+		"/Applications/MAMP/htdocs/newedenfaces/app/actions/FooterActions.js",
+		"/Applications/MAMP/htdocs/newedenfaces/app/alt.js",
+		"/Applications/MAMP/htdocs/newedenfaces/app/routes.js",
+		"/Applications/MAMP/htdocs/castvisitreports/models/threem/tg0000000116.php",
+		"/Applications/MAMP/htdocs/castvisitreports/models/lowes/lowesvisit.php",
+		"/Applications/MAMP/htdocs/castvisitreports/models/threem/threemvisit.php",
+		"/Applications/MAMP/htdocs/voting-client/src/reducer.js",
+		"/Applications/MAMP/htdocs/voting-client/src/action_creators.js",
+		"/Applications/MAMP/htdocs/psadmin/src/constants/actionTypes.js",
+		"/Applications/MAMP/htdocs/psadmin/src/stores/authorStore.js",
+		"/Applications/MAMP/htdocs/psadmin/src/actions/authorActions.js",
+		"/Applications/MAMP/htdocs/reduxapp/src/store.js",
+		"/Applications/MAMP/htdocs/castvisitreports/.gitignore",
+		"/Applications/MAMP/htdocs/castvisitreports/models/threem/tg0000000113.php",
+		"/Applications/MAMP/htdocs/castvisitreports/models/gamesa/tg0000000114.php",
+		"/Applications/MAMP/htdocs/castvisitreports/models/castreport.php",
+		"/Applications/MAMP/htdocs/castvisitreports/models/tru/truvisit.php",
+		"/Applications/MAMP/htdocs/castvisitreports/models/lowes/tg0000000115.php",
+		"/Applications/MAMP/htdocs/castvisitreports/access.txt",
+		"/Users/royce/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Applications/MAMP/htdocs/castvisitreports/models/threem/threemreports.php",
+		"/Applications/MAMP/htdocs/castvisitreports/models/touchrate/touchratevisit.php",
+		"/Applications/MAMP/htdocs/castvisitreports/visitreports.php",
+		"/Users/royce/Google Drive/visitreports.php",
+		"/Applications/MAMP/htdocs/newedenfaces/app/stylesheets/main.less",
+		"/Applications/MAMP/htdocs/newedenfaces/.gitignore",
+		"/Applications/MAMP/htdocs/psadmin/src/routes.js",
+		"/Applications/MAMP/htdocs/newedenfaces/bower.json",
+		"/Applications/MAMP/htdocs/newedenfaces/.eslintignore",
+		"/Applications/MAMP/htdocs/newedenfaces/package.json",
+		"/Applications/MAMP/htdocs/GithubBrowser/SearchResults.js",
+		"/Applications/MAMP/htdocs/GithubBrowser/Encoding.h",
+		"/Applications/MAMP/htdocs/GithubBrowser/Encoding.m",
+		"/Applications/MAMP/htdocs/GithubBrowser/ios/GithubBrowser/AppDelegate.m",
+		"/Applications/MAMP/htdocs/GithubBrowser/AuthService.js",
+		"/Users/royce/Library/Application Support/Sublime Text 3/Packages/Clang Format/clang_format.sublime-settings",
+		"/Applications/MAMP/htdocs/GithubBrowser/AppContainer.js",
+		"/Users/royce/Downloads/build-ios-apps-react-native/8-build-ios-apps-react-native-m8-exercise-files/After/SearchResults.js",
+		"/Applications/MAMP/htdocs/GithubBrowser/Feed.js",
+		"/Applications/MAMP/htdocs/GithubBrowser/Search.js",
+		"/Applications/MAMP/htdocs/GithubBrowser/Login.js",
+		"/Applications/MAMP/htdocs/GithubBrowser/PushPayload.js",
+		"/Users/royce/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/royce/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/royce/Downloads/build-ios-apps-react-native/7-build-ios-apps-react-native-m7-exercise-files/After/PushPayload.js",
+		"/Users/royce/Downloads/build-ios-apps-react-native/7-build-ios-apps-react-native-m7-exercise-files/After/AppContainer.js",
+		"/Applications/MAMP/htdocs/GithubBrowser/index.ios.js",
+		"/Users/royce/Downloads/build-ios-apps-react-native/6-build-ios-apps-react-native-m6-exercise-files/After/AppContainer.js",
+		"/Users/royce/Downloads/build-ios-apps-react-native/6-build-ios-apps-react-native-m6-exercise-files/After/Feed.js",
+		"/Applications/MAMP/htdocs/GithubBrowser/.eslintrc",
+		"/Users/royce/Downloads/build-ios-apps-react-native/5-build-ios-apps-react-native-m5-exercise-files/After/AppContainer.js",
+		"/Users/royce/Downloads/build-ios-apps-react-native/5-build-ios-apps-react-native-m5-exercise-files/After/AuthService.js",
+		"/Users/royce/Downloads/build-ios-apps-react-native/6-build-ios-apps-react-native-m6-exercise-files/After/index.ios.js",
+		"/Users/royce/Downloads/build-ios-apps-react-native/4-build-ios-apps-react-native-m4-exercise-files/After/AuthService.js",
+		"/Users/royce/Downloads/build-ios-apps-react-native/4-build-ios-apps-react-native-m4-exercise-files/After/Login.js",
+		"/Users/royce/Downloads/build-ios-apps-react-native/4-build-ios-apps-react-native-m4-exercise-files/After/index.ios.js",
+		"/Applications/MAMP/htdocs/psadmin/src/components/authors/authorPage.js",
+		"/Applications/MAMP/htdocs/psadmin/src/components/authors/authorForm.js",
+		"/Applications/MAMP/htdocs/psadmin/src/components/about/aboutPage.js",
+		"/Applications/MAMP/htdocs/GithubBrowser/utilities/utility.js",
+		"/Applications/MAMP/htdocs/GithubBrowser/package.json",
+		"/Applications/MAMP/htdocs/psadmin/.eslintrc",
+		"/Users/royce/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/royce/Downloads/build-ios-apps-react-native/3-build-ios-apps-react-native-m3-exercise-files/After/Login.js",
+		"/Applications/MAMP/htdocs/GithubBrowser/images/Octocat.png",
+		"/Applications/MAMP/htdocs/flickerfp/package.json",
+		"/Applications/MAMP/htdocs/GithubBrowser/ios/GithubBrowser/Images.xcassets/Octocat.imageset/Octocat.png",
+		"/Applications/MAMP/htdocs/GithubBrowser/ios/GithubBrowser.xcodeproj/xcshareddata/xcschemes/GithubBrowser.xcscheme",
+		"/Users/royce/Downloads/build-ios-apps-react-native/3-build-ios-apps-react-native-m3-exercise-files/After/package.json",
+		"/Applications/MAMP/htdocs/flickerfp/index.html",
+		"/Applications/MAMP/htdocs/flickerfp/flickr.js",
+		"/Applications/MAMP/htdocs/reactnativeios/.eslintignore",
+		"/Applications/MAMP/htdocs/reactnativeios/.eslintrc",
+		"/Applications/MAMP/htdocs/reactnativeios/.gitignore",
+		"/Applications/MAMP/htdocs/reactnativeios/package.json",
+		"/Applications/MAMP/htdocs/reactnativeios/GithubBrowser/package.json",
+		"/Applications/MAMP/htdocs/GithubBrowser/node_modules/react-native/packager/react-packager/src/Server/index.js",
+		"/Applications/MAMP/htdocs/GithubBrowser/.eslintignore",
+		"/Applications/MAMP/htdocs/flickerfp/.gitignore",
+		"/Applications/MAMP/htdocs/flickerfp/.eslintignore",
+		"/Applications/MAMP/htdocs/flickerfp/.eslintrc",
+		"/Applications/MAMP/htdocs/voting-client/src/index.jsx",
+		"/Applications/MAMP/htdocs/voting-client/src/components/Voting.jsx",
+		"/Applications/MAMP/htdocs/voting-client/src/remote_action_middleware.js",
+		"/Applications/MAMP/htdocs/voting-client/src/components/Vote.jsx",
+		"/Applications/MAMP/htdocs/voting-client/test/reducer_spec.js",
+		"/Applications/MAMP/htdocs/voting-client/test/components/Results_spec.jsx",
+		"/Applications/MAMP/htdocs/voting-client/test/components/Voting_spec.jsx",
+		"/Applications/MAMP/htdocs/voting-client/src/components/Results.jsx",
+		"/Applications/MAMP/htdocs/reduxapp/test/store_spec.js",
+		"/Applications/MAMP/htdocs/reduxapp/index.js",
+		"/Users/royce/Library/Application Support/Sublime Text 3/Packages/TrailingSpaces/trailing_spaces.sublime-settings",
+		"/Users/royce/Library/Application Support/Sublime Text 3/Packages/User/trailing_spaces.sublime-settings",
+		"/Applications/MAMP/htdocs/voting-client/src/components/App.js",
+		"/Applications/MAMP/htdocs/reduxapp/package.json",
+		"/Applications/MAMP/htdocs/voting-client/package.json",
+		"/Applications/MAMP/htdocs/voting-client/src/components/Winner.jsx",
+		"/Applications/MAMP/htdocs/voting-client/.eslintrc",
+		"/Applications/MAMP/htdocs/voting-client/webpack.config.js",
+		"/Applications/MAMP/htdocs/reduxapp/src/reducer.js",
+		"/Users/royce/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/royce/Library/Application Support/Sublime Text 3/Packages/Emmet/Default (OSX).sublime-keymap",
+		"/Users/royce/Library/Application Support/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/Applications/MAMP/htdocs/voting-client/test/test_helper.js",
+		"/Applications/MAMP/htdocs/voting-client/src/style.css",
+		"/Applications/MAMP/htdocs/psadmin/package.json",
+		"/Applications/MAMP/htdocs/exemplar/package.json",
+		"/Applications/MAMP/htdocs/voting-client/src/index.js",
+		"/Applications/MAMP/htdocs/reduxapp/entries.json",
+		"/Applications/MAMP/htdocs/reduxapp/src/core.js",
+		"/Applications/MAMP/htdocs/voting-client/dist/index.html",
+		"/Users/royce/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/Applications/MAMP/htdocs/redux/src/store.js",
+		"/Applications/MAMP/htdocs/redux/test/store_spec.js",
+		"/Applications/MAMP/htdocs/redux/test/reducer_spec.js"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<project>",
+			"/Applications/MAMP/htdocs/castvisitreports/models",
+			"/Applications/MAMP/htdocs/psadmin",
+			"<project>",
+			"/Applications/MAMP/htdocs/GithubBrowser,-*/node_modules/*",
+			"/Applications/MAMP/htdocs/GithubBrowser,-/node_modules/*",
+			"/Applications/MAMP/htdocs/GithubBrowser,",
+			"/Applications/MAMP/htdocs/GithubBrowser",
+			"/Applications/MAMP/htdocs/voting-client/src",
+			"/Applications/MAMP/htdocs/webpack3",
+			"/Applications/MAMP/htdocs/psadmin/src",
+			"/Applications/MAMP/htdocs/psadmin/source",
+			"/Applications/MAMP/htdocs/exemplar/app",
+			"/Applications/MAMP/htdocs/castvisitreports/models/loreal/alerts",
+			"/Applications/MAMP/htdocs/castvisitreports/models/loreal/displays",
+			"",
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"children",
+			"/>\n",
+			"props",
+			"message",
+			"actions",
+			"io.",
+			"io",
+			"isRequired",
+			"quote",
+			"FooterStore",
+			"Page Not Found",
+			"Page not found",
+			"no-undef",
+			"holidaySeasonalDisplay",
+			"holidayCheerEndCap",
+			"scotchTape3PCK",
+			"scotchTapeSideCap",
+			"scotchGiftWrapTape",
+			"=>",
+			" $this->scotchGiftWrapTapeArrival => '',",
+			"dataSection",
+			"data",
+			"-",
+			"fixDash",
+			"stristr",
+			"HK CLR MINI",
+			"productSection",
+			"data",
+			"dataSection",
+			";",
+			"toastr",
+			"bind",
+			"react-router",
+			"function ()",
+			"function(",
+			"function",
+			"RCTBridgeModule",
+			"Text",
+			"navigator",
+			"Feed",
+			"buffer",
+			"Octocat",
+			"Image",
+			"Image!",
+			"Image",
+			"NavigatorIOS",
+			"moment",
+			"getAuthInfo",
+			"View",
+			"Utility",
+			"success",
+			"hasVote",
+			"Callback property",
+			"'),\n",
+			"findD",
+			"strings",
+			":",
+			"_generateCourseId",
+			"utils",
+			"css",
+			"img",
+			"\"",
+			"CourseApi",
+			"AuthorApi",
+			"CourseStore",
+			"AuthorStore",
+			"Author",
+			"author",
+			"Author",
+			"AUTHOR",
+			"Author",
+			"author",
+			"Author",
+			"author",
+			"course",
+			"Author",
+			"author",
+			"Author",
+			"author",
+			"\"",
+			":",
+			"author",
+			"Author",
+			"newAuthor",
+			"CHANGE_EVENT",
+			"AuthorActions",
+			"AuthorApi",
+			"'change'",
+			"Link",
+			"ManageAuthorPage",
+			"AuthorForm",
+			"Input",
+			"ManageAuthorPage",
+			"Home",
+			"ReactDOM",
+			"utility",
+			"Authors",
+			"authors",
+			"Authors",
+			"authors",
+			"Authors",
+			"                    <",
+			"}>{}</",
+			"\" ",
+			"componentWillMount",
+			"Home",
+			"function(",
+			"About",
+			"space",
+			"></",
+			"h1",
+			"stylesheet",
+			"                '",
+			"bootstrap",
+			"css",
+			"link",
+			"strict",
+			"_listeners",
+			"_items",
+			"css",
+			"e.preventDefault",
+			"');\n",
+			"handleAddFormSubmitted",
+			"Auct_Area",
+			"areas",
+			"–",
+			"getAdditionalCounts",
+			"rawData"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"holidaySeasonalDumpBin",
+			"holidaySeasonalDisplay",
+			"holidayCheerEndCap",
+			"scotchTape3PCK",
+			"scotchTapeSideCap",
+			",",
+			"() =>",
+			"function (",
+			"function ",
+			" :",
+			"'",
+			"course",
+			"Course",
+			"COURSE",
+			"Course",
+			"course",
+			"Course",
+			"course",
+			"Course",
+			"course",
+			"Course",
+			"course",
+			"'",
+			" :",
+			"course",
+			"Course",
+			"CHANGE_EVENT",
+			"function (",
+			"stylesheet",
+			"5",
+			"listeners",
+			"_listeners",
+			"items",
+			"maxPages",
+			"–",
+			"Loreal Hair Care EverPure Sidekick",
+			"Loreal Cosmetics Super Star Mascara Sidekick",
+			"Loreal Cosmetics Super Star Mascara 1/2 Pallet",
+			"Maybelline Cosmetics Eye and Face 3-Sided Tower"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Applications/MAMP/htdocs/newedenfaces/server.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1801,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1462,
+								1473
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "actions/FooterActions.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1176,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								568,
+								568
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "actions/NavBarActions.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1305,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "components/AddCharacter.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2817,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								110,
+								129
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 667.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "stores/AddCharacterStore.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1261,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								285,
+								285
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "routes.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 362,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								347,
+								347
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "actions/AddCharacterActions.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 665,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								88,
+								88
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 169.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "newedenfaces.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"116",
+				"castvisitreports/models/threem/tg0000000116.php"
+			],
+			[
+				"tg0000000116",
+				"castvisitreports/models/threem/tg0000000116.php"
+			],
+			[
+				"threemv",
+				"castvisitreports/models/threem/threemvisit.php"
+			],
+			[
+				"lowe",
+				"castvisitreports/models/lowes/lowesvisit.php"
+			],
+			[
+				"three",
+				"castvisitreports/models/threem/threemvisit.php"
+			],
+			[
+				"babel",
+				"node_modules/babel/bin/babel.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 389.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
